@@ -1,4 +1,4 @@
-package ru.job4j
+package ru.job4j.hello
 
 /**
  * @author Sir-Hedgehog (mailto:quaresma_08@mail.ru)

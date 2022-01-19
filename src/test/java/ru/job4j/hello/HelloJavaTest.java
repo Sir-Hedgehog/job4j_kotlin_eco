@@ -1,4 +1,4 @@
-package ru.job4j;
+package ru.job4j.hello;
 
 import org.junit.jupiter.api.Test;
 
